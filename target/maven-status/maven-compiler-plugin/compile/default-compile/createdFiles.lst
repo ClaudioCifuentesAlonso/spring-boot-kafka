@@ -1,0 +1,5 @@
+com/claudio/kafka/demo/service/KafKaConsumerService.class
+com/claudio/kafka/demo/service/KafKaProducerService.class
+com/claudio/kafka/demo/DemoKafkaApplication.class
+com/claudio/kafka/demo/model/AppConstants.class
+com/claudio/kafka/demo/controller/KafkaProducerController.class

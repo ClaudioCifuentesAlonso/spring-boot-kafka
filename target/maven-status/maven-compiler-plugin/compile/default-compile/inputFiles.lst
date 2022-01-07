@@ -1,0 +1,5 @@
+/home/claudio/Desktop/demo-kafka/src/main/java/com/claudio/kafka/demo/model/AppConstants.java
+/home/claudio/Desktop/demo-kafka/src/main/java/com/claudio/kafka/demo/controller/KafkaProducerController.java
+/home/claudio/Desktop/demo-kafka/src/main/java/com/claudio/kafka/demo/DemoKafkaApplication.java
+/home/claudio/Desktop/demo-kafka/src/main/java/com/claudio/kafka/demo/service/KafKaProducerService.java
+/home/claudio/Desktop/demo-kafka/src/main/java/com/claudio/kafka/demo/service/KafKaConsumerService.java
